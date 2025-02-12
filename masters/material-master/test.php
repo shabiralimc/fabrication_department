@@ -1,0 +1,4 @@
+// $stmt_update = $conn->prepare("UPDATE material_master_creates SET godown = ?, negativeStockCheckbox = ?, negativeStock = ?, warrantyCheckbox = ?, warrantyYear = ?, reorderLevel = ?, department = ?, material_alias = ?, alternativeUnit=?, alternativeUnitvalue=?,openingStock=?,from_os=? WHERE materialName = ?");
+          // $stmt_update->bind_param("siisisissidss", $mergedGodowns, $negativeStockCheckboxFAB, $negativeStock, $warrantyCheckboxFAB, $warrantyYearFAB, $reorderLevel, $department, $materialAlias, $alternativeUnit, $alternativeUnitvalue,$openingStock,$from_os, $materialName);
+          // $stmt_update->execute();
+          // $stmt_update->close(); 

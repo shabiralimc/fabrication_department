@@ -1,0 +1,25 @@
+[15-Jan-2025 11:08:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'convertedQuantity' in 'field list' in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php:54
+Stack trace:
+#0 /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php(54): mysqli->prepare('INSERT INTO mat...')
+#1 {main}
+  thrown in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php on line 54
+[17-Jan-2025 05:24:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'convertedQuantity' in 'field list' in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php:54
+Stack trace:
+#0 /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php(54): mysqli->prepare('INSERT INTO mat...')
+#1 {main}
+  thrown in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php on line 54
+[17-Jan-2025 06:24:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'convertedQuantity' in 'field list' in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php:54
+Stack trace:
+#0 /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php(54): mysqli->prepare('INSERT INTO mat...')
+#1 {main}
+  thrown in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php on line 54
+[17-Jan-2025 06:25:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'convertedQuantity' in 'field list' in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php:54
+Stack trace:
+#0 /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php(54): mysqli->prepare('INSERT INTO mat...')
+#1 {main}
+  thrown in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php on line 54
+[17-Jan-2025 06:27:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'convertedQuantity' in 'field list' in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php:54
+Stack trace:
+#0 /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php(54): mysqli->prepare('INSERT INTO mat...')
+#1 {main}
+  thrown in /home4/wowchakra/work.chakracom.net/user/fabrication/material/mat-return/save_returns.php on line 54
